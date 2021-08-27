@@ -1,0 +1,6 @@
+D:\devs\TBrain\Exercise01\bin\Debug\Exercise01.pdb
+D:\devs\TBrain\Exercise01\obj\Debug\Exercise01.csproj.AssemblyReference.cache
+D:\devs\TBrain\Exercise01\obj\Debug\Exercise01.csproj.CoreCompileInputs.cache
+D:\devs\TBrain\Exercise01\obj\Debug\Exercise01.dll
+D:\devs\TBrain\Exercise01\obj\Debug\Exercise01.pdb
+D:\devs\TBrain\Exercise01\obj\Debug\Exercise01.csproj.CopyComplete

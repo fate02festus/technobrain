@@ -1,0 +1,2 @@
+D:\devs\TBrain\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\devs\TBrain\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

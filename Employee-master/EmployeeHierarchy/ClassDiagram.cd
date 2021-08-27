@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmployeeHierarchy.Hierarchy">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAIAAAQAAAAAFAAAAAAAAAAAAAAAAAAAIAAgAAA=</HashCode>
+      <FileName>Hierarchy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="LstEmployees" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EmployeeHierarchy.Employee">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAAAAAgABIABAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeHierarchy.CustomException.SalaryInvalid" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAgAEgAAAAAAgQAAAAJAAAAAAIBAAAAA=</HashCode>
+      <FileName>CustomException\SalaryInvalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeHierarchy.CustomException.ManagerMoreThanOne" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAAA=</HashCode>
+      <FileName>CustomException\ManagerMoreThanOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

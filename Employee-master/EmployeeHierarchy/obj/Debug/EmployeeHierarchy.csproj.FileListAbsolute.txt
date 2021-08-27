@@ -1,0 +1,6 @@
+C:\Users\festus\Downloads\Compressed\Employee-Hierarchy-master\Employee-Hierarchy-master\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.dll
+C:\Users\festus\Downloads\Compressed\Employee-Hierarchy-master\Employee-Hierarchy-master\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.pdb
+C:\Users\festus\Downloads\Compressed\Employee-Hierarchy-master\Employee-Hierarchy-master\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csproj.AssemblyReference.cache
+C:\Users\festus\Downloads\Compressed\Employee-Hierarchy-master\Employee-Hierarchy-master\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\festus\Downloads\Compressed\Employee-Hierarchy-master\Employee-Hierarchy-master\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.dll
+C:\Users\festus\Downloads\Compressed\Employee-Hierarchy-master\Employee-Hierarchy-master\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.pdb

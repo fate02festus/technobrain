@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Exercise01/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Exercise01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise01/1.0.0": {
+      "type": "project",
+      "path": "../Exercise01/Exercise01.csproj",
+      "msbuildProject": "../Exercise01/Exercise01.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Exercise01 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\festus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\devs\\TBrain\\Exercise02\\Exercise02.csproj",
+      "projectName": "Exercise02",
+      "projectPath": "D:\\devs\\TBrain\\Exercise02\\Exercise02.csproj",
+      "packagesPath": "C:\\Users\\festus\\.nuget\\packages\\",
+      "outputPath": "D:\\devs\\TBrain\\Exercise02\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\festus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\devs\\TBrain\\Exercise01\\Exercise01.csproj": {
+              "projectPath": "D:\\devs\\TBrain\\Exercise01\\Exercise01.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
